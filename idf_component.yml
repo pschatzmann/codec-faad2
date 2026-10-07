@@ -1,0 +1,4 @@
+version: "2.11.4"
+description: FAAD2 AAC (LC, HE, MAIN, LTP) decoder
+url: https://github.com/pschatzmann/codec-faad2
+license: GPL-2.0-or-later
